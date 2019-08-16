@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1053072038286-la2bii1mnr5bsbd1jiftrt3rbgpahk0o.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1053072038286-la2bii1mnr5bsbd1jiftrt3rbgpahk0o</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA4_CRp2jhvOhA5yinTw-x6QrpeGjcYzXo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1053072038286</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.AdmobSample</string>
+	<key>PROJECT_ID</key>
+	<string>admobsample-35823</string>
+	<key>STORAGE_BUCKET</key>
+	<string>admobsample-35823.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1053072038286:ios:d3213a278dc9e701</string>
+	<key>DATABASE_URL</key>
+	<string>https://admobsample-35823.firebaseio.com</string>
+</dict>
+</plist>
